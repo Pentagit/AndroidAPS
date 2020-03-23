@@ -263,9 +263,9 @@
     <string name="smscommunicator_remotebolusmindistance_summary">Minimale Dauer in Minuten, die nach einem Remote Bolus verstrichen sein muss, bevor ein neuer abgegeben werden kann.</string>
     <string name="smscommunicator_remotebolusmindistance">Anzahl Minuten, die mindestens zwischen zwei Bolusgaben liegen müssen.</string>
     <string name="smscommunicator_remotebolusmindistance_caveat">Aus Sicherheitsgründen musst Du mindestens zwei Telefonnummern eintragen, um diese Voreinstellung zu ändern.</string>
-    <string name="bolusdelivered">Bolus %1$.2fIE erfolgreich abgegeben</string>
-    <string name="bolusrequested">Werde %1$.2fIE abgeben</string>
-    <string name="smscommunicator_bolusdelivered">Bolus %1$.2fIE erfolgreich abgegeben</string>
+    <string name="bolusdelivered">%1$.2fIE geliefert!</string>
+    <string name="bolusrequested">%1$.2fIE</string>
+    <string name="smscommunicator_bolusdelivered">%1$.2fIE geliefert!</string>
     <string name="smscommunicator_mealbolusdelivered">Mahlzeiten-Bolus %1$.2f IE erfolgreich abgegeben.</string>
     <string name="smscommunicator_mealbolusdelivered_tt">Ziel %1$s für %2$d Minuten</string>
     <string name="smscommunicator_tt_set">Ziel %1$s für %2$d Minuten erfolgreich gesetzt.</string>
